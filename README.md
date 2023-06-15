@@ -28,7 +28,7 @@ Este curso aunque parte de cero Node... es necesario que conozcas un poco de Jav
 Información importante del curso:
 ```
 Como mencioné anteriormente, aprenderemos Node de muchas formas y con muchos ejemplos, algunas veces usaremos frameworks y otras veces lo haremos todo nosotros... pero aparte de aprender Node, lo mezclaremos con los siguientes temas que son sumamente usado en el mundo de hoy en día, entre estos temas puedo mencionar: 
-
+```
 MongoDB
 SocketIO
 Handlebars
