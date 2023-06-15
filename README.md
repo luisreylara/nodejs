@@ -1,5 +1,7 @@
-# nodejs
-All about nodejs
+# Node JS
+
+## Course from Udemy: "Node: De cero a experto" 
+ 
 
 ```
 
